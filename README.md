@@ -10,7 +10,7 @@
 
 ## [4. Динамическое программирование](https://github.com/Polozhiev/algo_contests/tree/main/4)
 
-## [5. Поиск в глубину и применения: dfs, SCC, 2-SAT, эйлеров цикл)](https://github.com/Polozhiev/algo_contests/tree/main/5)
+## [5. Поиск в глубину и применения: dfs, SCC, 2-SAT, эйлеров цикл](https://github.com/Polozhiev/algo_contests/tree/main/5)
 
 ## [6. Кратчайшие пути](https://github.com/Polozhiev/algo_contests/tree/main/6)
 
